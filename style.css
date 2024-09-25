@@ -1,0 +1,52 @@
+.face{
+    height: 400px;
+    width:400px;
+    background-color: aqua;
+    border:5px solid goldenrod ;
+    border-radius: 50%;
+    top: 200px;
+    left: 100px;
+    display: inline-block;
+    margin: 10px;
+}
+.mouth1{
+    height: 75px;
+    width: 200px;
+    background-color: red;
+    border-radius: 0 0 50px 50px;
+    position: absolute;
+    top: 250px;
+    left: 115px;
+}
+.left-eye, .right-eye{
+    height:100px ;
+    width: 100px;
+    background-color:black ;
+    border-radius:50% ;
+    display: inline-block;
+    position: absolute;
+    left: -20px ;
+    bottom: 180px; 
+}
+.right-eye{
+    left: 100px;
+ } 
+
+.mouth2{
+    height: 75px;
+    width: 200px;
+    background-color: red;
+    border-radius: 0 0 50px 50px;
+    position: absolute;
+    top: 250px;
+    left: 540px;
+}
+.mouth3{
+    height: 75px;
+    width: 200px;
+    background-color: red;
+    border-radius: 0 0 50px 50px;
+    position: absolute;
+    top: 250px;
+    left: 950px;
+}
